@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\Test_Blasciuc_Gabriele_3124a\Test_Blasciuc_Gabriele_3124a\bin\Debug\Test_Blasciuc_Gabriele_3124a.exe.config
+C:\Users\gabri\source\repos\Test_Blasciuc_Gabriele_3124a\Test_Blasciuc_Gabriele_3124a\bin\Debug\Test_Blasciuc_Gabriele_3124a.exe
+C:\Users\gabri\source\repos\Test_Blasciuc_Gabriele_3124a\Test_Blasciuc_Gabriele_3124a\bin\Debug\Test_Blasciuc_Gabriele_3124a.pdb
+C:\Users\gabri\source\repos\Test_Blasciuc_Gabriele_3124a\Test_Blasciuc_Gabriele_3124a\obj\Debug\Test_Blasciuc_Gabriele_3124a.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Test_Blasciuc_Gabriele_3124a\Test_Blasciuc_Gabriele_3124a\obj\Debug\Test_Blasciuc_Gabriele_3124a.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Test_Blasciuc_Gabriele_3124a\Test_Blasciuc_Gabriele_3124a\obj\Debug\Test_Blasciuc_Gabriele_3124a.exe
+C:\Users\gabri\source\repos\Test_Blasciuc_Gabriele_3124a\Test_Blasciuc_Gabriele_3124a\obj\Debug\Test_Blasciuc_Gabriele_3124a.pdb
